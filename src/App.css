@@ -1,5 +1,22 @@
 .App {
   text-align: center;
+  color: white;
+  background-color: #282c34;
+}
+
+.Portfolio {
+  color: white;
+  background-color: rgba(16, 106, 93, 0.986);
+}
+
+img{
+  border-radius: 50%;
+  max-height: 50%;
+  max-width: 50%;
+}
+
+.icon{
+  max-height: 10%;
 }
 
 .App-logo {
