@@ -7,17 +7,49 @@
 .Portfolio {
   color: white;
   background-color: rgba(16, 106, 93, 0.986);
+  padding: 2%;
+}
+
+.Footer{
+  padding: 2%;
+}
+
+.Header{
+  padding: 1%;
+}
+
+.Skills{
+  padding: 2%;
+}
+
+/* .footerInfo{
+  text-align: left;
+} */
+
+h1{
+  padding: 3%;
 }
 
 img{
   border-radius: 50%;
-  max-height: 50%;
-  max-width: 50%;
+  max-height: 30%;
+  max-width: 30%;
 }
 
-.icon{
-  max-height: 10%;
+.profilepicture{
+  border-radius: 50%;
+  max-height: 15%;
+  max-width: 15%;
 }
+
+.contentred{
+  color:red;
+}
+
+/* .icon{
+  border-radius: 50%;
+  max-height: 30%;
+} */
 
 .App-logo {
   height: 40vmin;
